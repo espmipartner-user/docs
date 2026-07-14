@@ -58,7 +58,11 @@
         "group": "Menu Auditor",
         "pages": [
           "desk-evaluation",
-          "untitled-page"
+          "untitled-page",
+          "download-laporan-ami",
+          "upload-laporan-ami",
+          "rekap-daftar-temuan",
+          "rekap-daftar-kesesuaian"
         ]
       }
     ]
