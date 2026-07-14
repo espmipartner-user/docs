@@ -57,7 +57,8 @@
       {
         "group": "Menu Auditor",
         "pages": [
-          "desk-evaluation"
+          "desk-evaluation",
+          "untitled-page"
         ]
       }
     ]
