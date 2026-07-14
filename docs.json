@@ -53,6 +53,12 @@
           "menu-auditee/manajemen-dokumen",
           "menu-auditee/laporan-ami"
         ]
+      },
+      {
+        "group": "Menu Auditor",
+        "pages": [
+          "desk-evaluation"
+        ]
       }
     ]
   },
